@@ -23,7 +23,7 @@ This project is built according to the seminal paper:
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/bazarghan/witsenhausen-counterexample
     cd witsenhausen-demo
     ```
 
